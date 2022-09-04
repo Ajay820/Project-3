@@ -1,0 +1,93 @@
+body{
+  background-color: #38322f;
+}
+.list{
+  position:absolute;
+  left:600px;
+}
+
+.list-item{
+  position:relative;
+  display:inline;
+  padding:30px;
+  top:30px;
+  font-family:'Montserrat';
+  font-size:20px;
+  color:#a7a1a1d8;
+}
+
+.logo{
+  position:absolute;
+  left:150px;
+  top:40px;
+}
+
+.hero-heading{
+  position:absolute;
+  left:150px;
+  top:100px;
+  font-family: 'Montserrat';
+  font-size:60px;
+  right:870px;
+  color:#ffffff;
+}
+
+.button-small{
+  position:absolute;
+  right:40px;
+  top:45px;
+  color:#f8d50ce0;
+  font-family:'Montserrat';
+  font-size:20px;
+  background-color:#38322f ;
+  padding:5px 20px;;
+  border: 2px solid #f8d50ce0;
+}
+
+.hero-body{
+  position:absolute;
+  left:1100px;
+  right:50px;
+  top:150px;
+  font-size:25px;
+  color:#cec7c7;
+}
+.bottom{
+  position:absolute;
+  top:720px;
+  right:50px;
+  height:80px;
+  width:200px;
+  border: 2px solid #000000;
+}
+
+.button-large-prev{
+  position:absolute;
+  right:100px;
+  top:0px;
+  background-color: #635c59;
+  padding:30px;
+  height:20px;
+  width:40px;
+  border-radius:1px;
+}
+.button-large-next{
+  position:absolute;
+  padding:30px;
+  right:0px;
+  top:0px;
+  background-color: rgb(193, 154, 107);
+  height:20px;
+  width:40px;
+  border-radius:1px;
+}
+.photo{
+  position:absolute;
+  top:310px;
+  height:410px;
+  width:1600px;
+}
+
+li:first-child{
+  color:#ffffff;
+}
